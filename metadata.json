@@ -1,0 +1,5 @@
+{
+  "name": "Sutra-Math-Engine",
+  "description": "A high-precision federated micro-frontend module for Schwarzschild-L-Factor transformations and relativistic physics calculations using hexagonal architecture.",
+  "requestFramePermissions": []
+}
